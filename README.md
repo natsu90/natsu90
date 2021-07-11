@@ -1,8 +1,8 @@
-### Kia Ora! 👋 *(That means Hello in one of New Zealand national language)*
+### Kia Ora! 👋 *(That means Hello in one of New Zealand national languages)*
 
 I'm [well-rounded software developer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve business problems. I'm Malaysian currently based in Auckland, New Zealand.
 
-You also can find me at the other sites:
+You also can find me on the other websites:
 - Email: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email logo" height="20" width="20" /> [hi [at] sulai [dot] mn](mailto:hi@sulai.mn)
 - Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" alt="wordpress logo" height="20" width="20" /> [sulaiman.dev](https://sulaiman.dev)
 - LinkedIn: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin logo" height="20" width="20" /> [linkedin.com/in/sulaiman-sudirman](https://linkedin.com/in/sulaiman-sudirman)

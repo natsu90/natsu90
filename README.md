@@ -9,6 +9,8 @@ You also can find me on the other websites:
 - Stack Overflow: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow logo" height="20" width="20" /> [stackoverflow.com/u/1109004](https://stackoverflow.com/u/1109004)
 - Goodreads: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="goodreads logo" height="20" width="20" /> [goodreads.com/sulaiman_sudirman](https://goodreads.com/sulaiman_sudirman)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=natsu901&cover_image=true&theme=novatorem)](https://open.spotify.com/user/natsu901)
+
 <!--
 **natsu90/natsu90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

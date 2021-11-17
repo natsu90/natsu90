@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
 
-<img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsu90&hide_langs_below=1">
-
-<img src="https://github-readme-stats.vercel.app/api?username=natsu90&show_icons=true">
+[![github-stats-1](https://github-readme-stats.vercel.app/api/top-langs/?username=natsu90&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![github-stats-2](https://github-readme-stats.vercel.app/api?username=natsu90&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

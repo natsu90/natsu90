@@ -1,6 +1,6 @@
 ### Kia Ora! 👋 *(That means Hello in one of New Zealand national languages)*
 
-I'm [well-rounded software developer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve business problems. I'm Malaysian currently based in Auckland, New Zealand.
+I'm [well-rounded software developer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve business problems. I'm Malaysian currently based in New Zealand, but working remotely for an USA company.
 
 You also can find me on the other websites:
 - Email: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email logo" height="20" width="20" /> [hi [at] sulai [dot] mn](mailto:hi@sulai.mn)

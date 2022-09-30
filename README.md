@@ -3,7 +3,7 @@
 I'm [well-rounded software developer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve business problems. I'm Malaysian currently based in New Zealand, but working remotely for an USA company.
 
 You also can find me on the other websites:
-- Email: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="email logo" height="20" width="20" /> [hi [at] sulai [dot] mn](mailto:hi@sulai.mn)
+- Email: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="email logo" height="20" width="20" /> [i [at] ss [dot] my](mailto:i@ss.my)
 - Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wordpress.svg" alt="wordpress logo" height="20" width="20" /> [sulaiman.dev](https://sulaiman.dev)
 - LinkedIn: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="linkedin logo" height="20" width="20" /> [linkedin.com/in/sulaiman-sudirman](https://linkedin.com/in/sulaiman-sudirman)
 - Stack Overflow: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" alt="stackoverflow logo" height="20" width="20" /> [stackoverflow.com/u/1109004](https://stackoverflow.com/u/1109004)

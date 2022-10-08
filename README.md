@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   
 [![github-stats-2](https://github-readme-stats.vercel.app/api?username=natsu90&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=natsu90)](https://git.io/streak-stats)
+
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=natsu90)

@@ -1,6 +1,6 @@
 ### Kia Ora! 👋 *(That means Hello in one of New Zealand national languages)*
 
-I'm [well-rounded software developer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve business problems. I'm Malaysian currently based in New Zealand, but working remotely for a US company.
+I'm [well-rounded software engineer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve business problems. I'm Malaysian currently based in New Zealand, but working remotely for a US company.
 
 You also can find me on the other websites:
 - Email: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="email logo" height="20" width="20" /> [i [at] ss [dot] my](mailto:i@ss.my)

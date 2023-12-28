@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=natsu90)](https://git.io/streak-stats)
 
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1109004)](https://stackoverflow.com/u/1109004)
+
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=natsu90)

@@ -11,7 +11,7 @@ You also can find me on the other websites:
 - Goodreads: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/goodreads.svg" alt="goodreads logo" height="20" width="20" /> [goodreads.com/sulaiman_sudirman](https://goodreads.com/sulaiman_sudirman)
 - Nomadlist: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/yourtraveldottv.svg" alt="travel.tv logo" height="20" width="20" /> [nomadlist.com/@natsu90](https://nomadlist.com/@natsu90)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=natsu901&cover_image=true&theme=novatorem)](https://open.spotify.com/user/natsu901)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=natsu901&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=natsu901&redirect=true)
 
 <!--
 **natsu90/natsu90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

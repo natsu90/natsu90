@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
 
-[![github-stats-1](https://github-readme-stats.vercel.app/api/top-langs/?username=natsu90&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![github-stats-1](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
   
-[![github-stats-2](https://github-readme-stats.vercel.app/api?username=natsu90&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github-stats-2](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=natsu90)](https://git.io/streak-stats)
 

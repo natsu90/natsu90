@@ -1,6 +1,10 @@
 ### Kia Ora! 👋 *(That means Hello in one of New Zealand national languages)*
 
-I'm a [well-rounded software engineer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve business problems. I'm Malaysian currently based in New Zealand, but working remotely for a US company.
+I'm a [well-rounded software engineer](https://1x.engineer/) who passionate about software craftsmanship and technology solutions that solve real business problems.
+ 
+10+ years of hands-on PHP development experience, with deep expertise in Laravel.
+ 
+Multi-national career spanning companies based in Malaysia, Singapore, New Zealand, and the United States.
 
 You also can find me on the other websites:
 - Email: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="email logo" height="20" width="20" /> [github [at] s [dot] ss [dot] my](mailto:github@s.ss.my)
@@ -30,9 +34,9 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
 
-[![github-stats-1](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![github-stats-1](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
   
-[![github-stats-2](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![github-stats-2](https://github-stats-extended.vercel.app/api?username=natsu90)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=natsu90)](https://git.io/streak-stats)
 

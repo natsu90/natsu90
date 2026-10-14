@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
 
-[![github-stats-1](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
+[![github-stats-1](https://github-readme-stats.vercel.app/api/top-langs/?username=natsu90&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 [![github-stats-2](https://github-stats-extended.vercel.app/api?username=natsu90)](https://github.com/stats-organization/github-stats-extended)
 
